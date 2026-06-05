@@ -1,2 +1,22 @@
-# healthcare-nlp-projects
-Healthcare NLP concepts, annotation workflows, NER methodologies, and structured clinical data review.
+# Healthcare NLP Projects
+
+## Topics
+
+- Named Entity Recognition
+- Medical Classification
+- Clinical Summarization
+- Structured Data Extraction
+
+## Entity Categories
+
+- Diseases
+- Symptoms
+- Medications
+- Procedures
+- Laboratory Findings
+
+## Quality Assurance
+
+- Annotation Consistency
+- Terminology Standardization
+- Clinical Accuracy Review
